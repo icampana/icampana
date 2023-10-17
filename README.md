@@ -1,6 +1,8 @@
 # 💫 About Me:
 I've been a software developer for over 20 years.  Born and raised in Guayaquil (Ecuador), but love traveling,<br>so I ended up learning multiple languages: English, French and Portuguese, while my native language is Spanish.<br><br>I have worked with different startups, both in the seeding and scaling stages, so had to learn how to wear different hats.<br><br>My main stack nowadays is NodeJS + React, but I worked for several years with Python and once upon a time<br>I was a Drupal site builder/architect.
 
+- I'm currently learning about Go/GoLang to be able to work with more performant backend services.
+- Fun Fact: I love learning new stuff so much, that I ended up learning how to be a Barista, and also got my dog trainner certificate.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/icampana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/icampana) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/icampana) 
